@@ -14,7 +14,7 @@ base_url = source_config['base_url']
 base_raw_file = source_config['output_file']
 
 # File lưu trữ dữ liệu thống kê
-stats_output_file = "data/api_football_statistics.json"
+stats_output_file = "data_epl/api_football_statistics.json"
 BATCH_SIZE = 95  # Chạy 95 trận 1 ngày để đảm bảo an toàn cho giới hạn 100
 
 # 2. Tải khóa bí mật
